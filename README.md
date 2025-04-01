@@ -36,15 +36,3 @@ multi-agent-research/
 │ └── requirements.txt
 └── README.md
 
-
-## ⚡ Getting Started
-
-### Prerequisites
-- Python 3.8+
-- Git
-
-### Installation
-```bash
-git clone https://github.com/your-username/multi-agent-research.git
-cd multi-agent-research/crewAI-agent
-pip install -r requirements.txt
